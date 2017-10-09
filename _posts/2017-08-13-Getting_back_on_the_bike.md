@@ -3,7 +3,6 @@ layout: post
 title: Getting back on the bike
 ---
 
-# Getting back on the bike
 I am fat, unfit, and have a large hole in my life where completing my degree used to be, it is time to get back on the bike. 
 
 I have spent the last academic year working full time as well as taking on a full course load for my final year and I have let my fitness go and allowed my body fat % to increase slowly. The year before I completed my first Ultramarathon; Ratrace's 70 mile event 'The Wall' and a number of other off road long distance runs but my uni workload made me lazy in other areas of my life. No more... 
