@@ -9,4 +9,5 @@ I scored well in my first year programming module and final year Software Engine
 
 ## 100 days of code
 1. https://jgthms.com/web-design-in-4-minutes/ - I spent an hour building this site from some old content. (60 mins)
-2. https://www.getpy.com/ - Python course from the beginning to CHallenge #2 (60 mins)
+2. https://www.getpy.com/ - Python course from the beginning to Challenge #1 (60 mins)
+3. https://www.getpy.com/ - Python course from Challenge #1 to Challenge #2 (60 mins)
