@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning to code
+title: (Re)Learning to code
 ---
 
 I completed a degree in Information Systems and Management at the LSE in May and I now need to make sure that I can execute what I have learned. 
